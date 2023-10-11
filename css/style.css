@@ -56,11 +56,11 @@ h5 {
     line-height: 20px;
     color: #fff;
 }
-.hekim img {width: 80%;}
+.hekim img {width: 80%; margin:auto;}
 .bgcolorsec {background-color: #f1f1f1; padding: 50px 0;}
 #clrwht {color: black;}
 .headersec2 {width: 80%;}
-.headersec3 {width: 80%;}
+.headersec3 {width: 80%; margin: auto; }
 .bgcolor {background-color: #6bc1f1; width: 100%; display: flex; flex-direction: column; justify-content: center;}
 #pp {display: none;}
 .secforphone {
