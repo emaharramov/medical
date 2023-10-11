@@ -1,6 +1,6 @@
 header {
     background: url(../img/headerbg.jpg) center/cover;
-    min-width: 50vh;
+    min-height: 50vh;
 }
 .btnextra {
     margin: 20px auto; 
